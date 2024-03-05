@@ -1,6 +1,6 @@
 # Brayan Records Website 
 # Introduction:
-## A website that i created for a foreign client. The client demanded an online music selling platform. So I utilized my skills of web development to provide a platform that meets the requirements of client.
+A website that i created for a foreign client. The client demanded an online music selling platform. So I utilized my skills of web development to provide a platform that meets the requirements of client.
 
 # Frontend 
 The frontend of my website was created using NEXTJS 14, server actions and tailwind css with a combination of shadcn ui. I have been working on this techstack for quite a while now and this project showcases my familarity with this techstack.
