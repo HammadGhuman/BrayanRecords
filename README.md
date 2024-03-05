@@ -1,5 +1,5 @@
-#Brayan Records Website 
-#Introduction:
+# Brayan Records Website 
+# Introduction:
 ## A website that i created for a foreign client. The client demanded an online music selling platform. So I utilized my skills of web development to provide a platform that meets the requirements of client.
 
 # Frontend 
