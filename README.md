@@ -3,11 +3,11 @@
 A website that i created for a foreign client. The client demanded an online music selling platform. So I utilized my skills of web development to provide a platform that meets the requirements of client.
 
 # TECH STACK
-. NEXTJS 14 with Server Actions was used for frontend and backend.
-. KINDE was used for authentication.
-. Tailwind Css and Shadcn ui was used for styling.
-. Stripe was used for payment integration.
-. UploadThing was used to upload files on server.
++ NEXTJS 14 with Server Actions was used for frontend and backend.
++ KINDE was used for authentication.
++ Tailwind Css and Shadcn ui was used for styling.
++ Stripe was used for payment integration.
++ UploadThing was used to upload files on server.
 
 # Frontend 
 The frontend of my website was created using NEXTJS 14, server actions and tailwind css with a combination of shadcn ui. I have been working on this techstack for quite a while now and this project showcases my familarity with this techstack.
